@@ -1,0 +1,11 @@
+city,country,temp_c,feels_like_c,humidity_pct,pressure_hpa,condition,description,wind_speed_ms,recorded_at
+Pretoria,ZA,27.72,26.67,24,1022,Clear,clear sky,2.57,2026-08-19 13:37:25
+Cape Town,ZA,18.0,17.32,56,1023,Clouds,broken clouds,6.17,2026-08-19 13:37:26
+Durban,ZA,24.18,24.43,68,1018,Clear,clear sky,0.89,2026-08-19 13:37:27
+Nairobi,KE,23.93,23.87,57,1016,Clouds,overcast clouds,2.57,2026-08-19 13:37:28
+Cairo,EG,33.42,33.03,33,1009,Clear,clear sky,7.2,2026-08-19 13:37:29
+London,GB,24.11,23.99,54,1003,Clouds,overcast clouds,3.6,2026-08-19 13:35:26
+Reykjavik,IS,12.81,11.9,67,1018,Clear,clear sky,4.12,2026-08-19 13:37:31
+Dubai,AE,36.96,43.96,53,999,Clear,clear sky,4.63,2026-08-19 13:35:11
+Singapore,SG,29.29,35.33,79,1012,Clouds,overcast clouds,2.06,2026-08-19 13:37:33
+Sydney,AU,13.19,12.44,72,1029,Clear,clear sky,3.37,2026-08-19 13:31:24
