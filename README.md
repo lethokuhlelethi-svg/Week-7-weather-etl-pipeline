@@ -149,9 +149,9 @@ From a single collection run (10 cities, 10 rows):
 
 **Temperature ranged 26.2°C across the ten cities.** Dubai was hottest at 38.0°C, Reykjavik coldest at 11.8°C. The ordering follows latitude and season: Dubai and Cairo in northern-hemisphere summer desert climates, Reykjavik near the Arctic Circle, Sydney in southern-hemisphere winter.
 
-**The most humid city was also the coldest.** Reykjavik recorded 76% humidity against Pretoria's 27%. This is not a contradiction — relative humidity measures how close the air is to saturation, and cold air saturates at much lower moisture content. Reykjavik at 76% and Singapore at 80% feel nothing alike. Absolute moisture and relative humidity are different measurements, and only the second one is in this dataset.
+**The most humid city was also the coldest.** Reykjavik recorded 76% humidity against Pretoria's 27%. This is not a contradiction , relative humidity measures how close the air is to saturation, and cold air saturates at much lower moisture content. Reykjavik at 76% and Singapore at 80% feel nothing alike. Absolute moisture and relative humidity are different measurements, and only the second one is in this dataset.
 
-**Conditions were evenly split** — 6 clear, 4 cloudy. With one observation per city this is too small a sample to read as a pattern.
+**Conditions were evenly split** : 6 clear, 4 cloudy. With one observation per city this is too small a sample to read as a pattern.
 
 **Temperature and humidity are largely independent.** The hottest city was not the most humid, and the driest was not the coldest. Any assumption that the two move together does not hold here.
 
